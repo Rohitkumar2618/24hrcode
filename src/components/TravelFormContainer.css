@@ -1,0 +1,190 @@
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  width: 62.13rem;
+  height: 44.31rem;
+}
+.want-to-travel {
+  position: absolute;
+  top: 3.94rem;
+  left: 11.19rem;
+  font-size: var(--font-size-41xl);
+  line-height: 4.38rem;
+  display: inline-block;
+  font-family: var(--font-manrope);
+  background: linear-gradient(205.73deg, #fff, #838383 96.21%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 42.94rem;
+}
+.group-child1,
+.group-child2,
+.group-child3,
+.rectangle-div {
+  position: absolute;
+  top: 30.25rem;
+  left: 7.13rem;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-dimgray);
+  width: 10.81rem;
+  height: 10.88rem;
+}
+.group-child1,
+.group-child2,
+.group-child3 {
+  left: 19.19rem;
+}
+.group-child2,
+.group-child3 {
+  left: 31.25rem;
+}
+.group-child3 {
+  left: 43.31rem;
+}
+.travel-speed {
+  top: 0;
+  left: 0;
+  color: var(--color-mediumspringgreen-100);
+  display: inline-block;
+  width: 15.38rem;
+}
+.div,
+.miles-per-hour,
+.travel-speed {
+  position: absolute;
+  letter-spacing: 2px;
+}
+.div {
+  top: 4.56rem;
+  left: 5rem;
+  font-size: var(--font-size-77xl);
+  display: inline-block;
+  width: 8.69rem;
+}
+.miles-per-hour {
+  top: 11rem;
+  left: 1.38rem;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-tomorrow);
+}
+.travel-speed-parent {
+  position: absolute;
+  top: 12.13rem;
+  left: 13.63rem;
+  width: 15.38rem;
+  height: 12.81rem;
+  font-size: 1.8rem;
+  font-family: var(--font-trispace);
+}
+.billion-years,
+.div1 {
+  position: absolute;
+  letter-spacing: 2px;
+}
+.div1 {
+  top: 4.56rem;
+  left: 5rem;
+  font-size: var(--font-size-77xl);
+  display: inline-block;
+  width: 8.69rem;
+}
+.billion-years {
+  top: 11rem;
+  left: 1.75rem;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-tomorrow);
+}
+.travel-time-parent {
+  position: absolute;
+  top: 12.13rem;
+  left: 34.38rem;
+  width: 15.38rem;
+  height: 12.81rem;
+  font-size: 1.8rem;
+  font-family: var(--font-trispace);
+}
+.image-11-icon {
+  position: absolute;
+  top: 31.56rem;
+  left: 46.31rem;
+  width: 4.5rem;
+  height: 4.56rem;
+  object-fit: cover;
+}
+.image-10-icon,
+.image-12-icon,
+.image-8-icon {
+  position: absolute;
+  top: 32.56rem;
+  left: 8.88rem;
+  width: 7.25rem;
+  height: 2.94rem;
+  object-fit: cover;
+}
+.image-10-icon,
+.image-12-icon {
+  top: 31.56rem;
+  left: 33.25rem;
+  width: 6.94rem;
+  height: 5.13rem;
+}
+.image-12-icon {
+  top: 30.25rem;
+  left: 20rem;
+  width: 8.5rem;
+  height: 7.25rem;
+}
+.bullet-train,
+.car,
+.jet {
+  position: absolute;
+  letter-spacing: 2px;
+}
+.bullet-train {
+  top: 36.81rem;
+  left: 22.81rem;
+  display: inline-block;
+  width: 5.13rem;
+}
+.car,
+.jet {
+  top: 37.5rem;
+  left: 11.13rem;
+}
+.jet {
+  left: 35.69rem;
+}
+.light-speed1 {
+  margin: 0;
+}
+.light-speed {
+  position: absolute;
+  top: 37.06rem;
+  left: 46.88rem;
+  letter-spacing: 2px;
+  display: inline-block;
+  width: 5.19rem;
+  height: 2.5rem;
+}
+.vector-group {
+  position: absolute;
+  top: 77.75rem;
+  left: 13.94rem;
+  width: 62.13rem;
+  height: 44.31rem;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--dark-light-white);
+  font-family: var(--font-tomorrow);
+}
+.vector-group:hover {
+  box-shadow: 0px 0.1em 0.2em rgb(45 35 66 / 40%), 0px 0.4em 0.7em -0.1em rgb(45 35 66 / 30%), inset 0px -0.1em 0px #3c4fe0;
+  transform: translateY(-0.1em);
+}
+
+.vector-group:active {
+  box-shadow: inset 0px 0.1em 0.6em #f3f4f8;
+  transform: translateY(0em);
+}

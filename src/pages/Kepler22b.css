@@ -1,0 +1,451 @@
+.desktop-2-child {
+  position: absolute;
+  top: 363.86px;
+  left: 137.89px;
+  width: 3.08px;
+  height: 3.05px;
+}
+.desktop-2-inner,
+.desktop-2-item {
+  position: absolute;
+  top: 363.89px;
+  left: 137.93px;
+  width: 3.03px;
+  height: 3.05px;
+}
+.desktop-2-inner {
+  left: 137.92px;
+  width: 3.08px;
+  height: 3.07px;
+}
+.kepler-22b1,
+.vector-icon {
+  position: absolute;
+  top: 363.82px;
+  left: 137.76px;
+  width: 3.28px;
+  height: 3.15px;
+}
+.kepler-22b1 {
+  top: 365px;
+  left: 313px;
+  font-family: var(--font-londrina-shadow);
+  background: linear-gradient(180deg, rgba(106, 255, 148, 0.82) 65.1%, #fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 966px;
+  height: 234px;
+}
+.group-icon,
+.light-icon {
+  top: 137px;
+  left: 0;
+  width: 1027px;
+  height: 738px;
+  object-fit: cover;
+  margin-left: -45rem;
+}
+
+.light-icon {
+  top: 137px;
+  left: 0;
+  width: 1049px;
+  height: 786px;
+  object-fit: cover;
+}
+.desktop-2-child1,
+.rectangle-icon {
+  position: absolute;
+  top: 224px;
+  left: 0;
+  border-radius: var(--br-xl);
+  width: 1440px;
+  height: 3858.19px;
+}
+.desktop-2-child1 {
+  top: 84px;
+  width: 928px;
+  height: 939.67px;
+}
+.image-3-icon,
+.image-5-icon,
+.image-7-icon {
+  position: absolute;
+  top: 580px;
+  left: 95.99px;
+  width: 84.58px;
+  height: 84.99px;
+  object-fit: cover;
+}
+.image-3-icon,
+.image-5-icon {
+  top: 0;
+  left: 796.5px;
+  width: 241.52px;
+  height: 468.35px;
+}
+.image-3-icon {
+  top: 2925px;
+  left: 111.99px;
+  width: 813px;
+  height: 373px;
+}
+.are-you-ready {
+  position: absolute;
+  top: 2804px;
+  left: 167px;
+  letter-spacing: 0.15em;
+  display: inline-block;
+  width: 795px;
+  height: 113.14px;
+}
+.blank-line {
+  margin: 0;
+}
+.kepler-22b-your-odyssey-container {
+  position: absolute;
+  top: 2652px;
+  left: 143px;
+  font-size: 40px;
+  font-family: var(--font-mochiy-pop-one);
+  background: linear-gradient(
+    89.89deg,
+    #fff,
+    #86ff99 26.56%,
+    #66ff7e 69.79%,
+    #fff
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 918px;
+  height: 161px;
+}
+.kepler-22b-isnt-just-container {
+  top: 2404px;
+  left: 234.05px;
+  letter-spacing: 0.15em;
+  width: 644px;
+  height: 141px;
+}
+.kepler-22b-is-your,
+.kepler-22b-isnt-just-container,
+.your-new-home {
+  position: absolute;
+  display: inline-block;
+}
+.your-new-home {
+  top: 2323px;
+  left: 195.05px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-mochiy-pop-one);
+  width: 442px;
+  height: 55.07px;
+}
+.kepler-22b-is-your {
+  top: 2049px;
+  left: 234.05px;
+  letter-spacing: 0.15em;
+  width: 606px;
+  height: 91px;
+}
+.adventure-beckons {
+  position: absolute;
+  top: 1963px;
+  left: 196.05px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-mochiy-pop-one);
+  display: inline-block;
+  width: 569px;
+  height: 60.08px;
+}
+.kepler-22b-beckons-scientists {
+  position: absolute;
+  top: 1696px;
+  left: 234.05px;
+  letter-spacing: 0.15em;
+  display: inline-block;
+  width: 631px;
+  height: 94px;
+}
+.a-scientific-wonderland {
+  position: absolute;
+  top: 1607px;
+  left: 195.05px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-mochiy-pop-one);
+  display: inline-block;
+  width: 985px;
+  height: 63.08px;
+}
+.cutting-edge-transportation-sy {
+  position: absolute;
+  top: 1362px;
+  left: 233.05px;
+  letter-spacing: 0.15em;
+  display: inline-block;
+  width: 631px;
+  height: 137px;
+}
+.journey-beyond {
+  position: absolute;
+  top: 1267px;
+  left: 196.05px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-mochiy-pop-one);
+  display: inline-block;
+  width: 467px;
+  height: 48.06px;
+}
+.o {
+  letter-spacing: 0.15em;
+}
+.adapting-to-the,
+.life-here-requires-container {
+  position: absolute;
+  top: 967px;
+  left: 233.05px;
+  display: inline-block;
+  width: 623px;
+  height: 169px;
+}
+.adapting-to-the {
+  top: 912px;
+  left: 196.05px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-mochiy-pop-one);
+  width: 730px;
+  height: 55.07px;
+}
+.kepler-22b-offers-breathtaking {
+  position: absolute;
+  top: 660px;
+  left: 233.05px;
+  letter-spacing: 0.15em;
+  display: inline-block;
+  width: 623px;
+  height: 165px;
+}
+.an-alien-landscape,
+.welcome-to-kepler-22b {
+  position: absolute;
+  display: inline-block;
+  width: 839px;
+}
+.an-alien-landscape {
+  top: 570px;
+  left: 196.05px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-mochiy-pop-one);
+  height: 61.08px;
+}
+.welcome-to-kepler-22b {
+  top: 326.64px;
+  left: 118.05px;
+  letter-spacing: 0.14em;
+  height: 150.19px;
+}
+.discover-kepler-22b-a {
+  position: absolute;
+  top: 139.82px;
+  left: 87.05px;
+  font-size: 48px;
+  font-family: var(--font-mochiy-pop-one);
+  display: inline-block;
+  width: 846px;
+  height: 152.19px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background: linear-gradient(
+    170.64deg,
+    rgba(68, 68, 68, 0.25),
+    rgba(22, 100, 44, 0.22)
+  );
+  width: 1035px;
+  height: 3279px;
+}
+.are-you-ready-to-embark-on-the-parent,
+.image-5-parent,
+.image-7-parent {
+  position: absolute;
+  top: 19px;
+  left: 0;
+  width: 1180.05px;
+  height: 3279px;
+}
+.image-5-parent,
+.image-7-parent {
+  top: 0;
+  height: 3298px;
+}
+.image-7-parent {
+  top: 636px;
+  left: 206px;
+  font-size: var(--font-size-5xl);
+}
+.discover-the-wonders {
+  position: absolute;
+  top: 562px;
+  left: 524px;
+  font-size: 23px;
+  letter-spacing: 2px;
+  font-family: var(--font-trispace);
+  color: var(--color-mediumspringgreen);
+  display: inline-block;
+  width: 745px;
+  height: 99px;
+  opacity: 0.8;
+}
+.group-item {
+  position: absolute;
+  top: -397px;
+  left: 331px;
+  border-radius: var(--br-xl);
+  width: 2101px;
+  height: 1061px;
+}
+.group-inner,
+.team-ufo {
+  position: absolute;
+  top: 0;
+  left: 546px;
+  width: 1006px;
+  height: 500px;
+}
+.team-ufo {
+  top: 276px;
+  left: 918px;
+  letter-spacing: 0.15em;
+  display: inline-block;
+  width: 302px;
+  height: 29px;
+  -webkit-text-stroke: 1px #000;
+}
+.unbelievably-funny-observers {
+  position: absolute;
+  top: 318px;
+  left: 903px;
+  font-size: 18px;
+  letter-spacing: 0.15em;
+  font-family: var(--font-palanquin-dark);
+  color: #a2d8ab;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+}
+.vector-parent {
+  position: absolute;
+  top: 4019px;
+  left: -331px;
+  width: 2101px;
+  height: 860px;
+  font-size: var(--font-size-17xl);
+}
+.creating-worlds-beyond {
+  position: absolute;
+  top: 159px;
+  left: 194px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 2px;
+  font-family: var(--font-trispace);
+  color: var(--color-mediumspringgreen);
+  display: inline-block;
+  width: 455px;
+}
+.frame-div {
+  position: absolute;
+  top: 1397px;
+  left: 1152px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.desktop-2 {
+  background-color: #111015;
+  overflow: hidden;
+}
+.desktop-2,
+.second-landing-page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 4683px;
+}
+.menu-icon {
+  position: relative;
+  width: 27px;
+  height: 27px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.r,
+.solar-title {
+  position: absolute;
+}
+.r {
+  top: 0;
+  left: 1032px;
+  width: 98.66px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.solar-title {
+  top: 1px;
+  left: 0;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 538px;
+  height: 54px;
+}
+.solar-title2,
+.solar-title3,
+.solar-title4 {
+  position: absolute;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  display: inline-block;
+  height: 20px;
+}
+.solar-title2 {
+  top: 1px;
+  left: 538px;
+  width: 82px;
+}
+.solar-title3,
+.solar-title4 {
+  top: 0;
+  width: 142px;
+}
+.solar-title3 {
+  left: 634px;
+  color: var(--color-mediumspringgreen);
+}
+.solar-title4 {
+  left: 827px;
+}
+.header {
+  position: absolute;
+  top: 106px;
+  left: 182px;
+  width: 1130.66px;
+  height: 55px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-trispace);
+}
+.kepler-22b {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 4683px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 200px;
+  color: var(--color-white);
+  font-family: var(--font-orbitron);
+}

@@ -1,0 +1,62 @@
+p.rk-blocks {
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-5xs);
+    color:#6AFF94;
+    text-transform:uppercase;
+}
+
+.rk-title{
+    margin-top: 7rem;
+  margin-bottom: 2rem;
+  /* margin-top: 120px; */
+  width: 27.75rem;
+  /* margin-left: 127px;
+  margin-top: 184px;
+  */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.rk-kepler-22b{
+    line-height: 4.38rem;
+    display: inline-block;
+    background: linear-gradient(90deg, #6aff94, #fff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    width: 25.81rem;
+}
+.rk-solar-system-exploration{
+    font-size: var(--font-size-71xl);
+    line-height: 6.25rem;
+    display: inline-block;
+    width: 51.69rem;
+
+}
+.rk-blocks{
+   align-self: stretch;
+
+   
+   
+}
+.rk-sub-blocks{
+    font-size: var(--font-size-5xl);
+    line-height: 155%;
+    font-weight: 600;
+    font-family: var(--font-noto-serif-malayalam);
+    color: var(--dark-light-white);
+    
+}
+.rk-image-7-icon{
+    display: block;
+    max-width: 98%;
+    margin-left: 33px;
+    margin-top: 16px;
+}
+
+

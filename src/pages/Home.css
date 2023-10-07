@@ -1,0 +1,84 @@
+.group-child {
+  position: absolute;
+  top: -21.5rem;
+  left: -0.31rem;
+  border-radius: var(--br-xl);
+  width: 90rem;
+  height: 73.94rem;
+}
+.group-item {
+  position: absolute;
+  top: 0;
+  left: 18.94rem;
+  width: 52.17rem;
+  height: 32.94rem;
+}
+.team-ufo,
+.unbelievably-funny-observers {
+  position: absolute;
+  letter-spacing: 0.15em;
+  display: inline-block;
+}
+.team-ufo {
+  top: 20.25rem;
+  left: 36.56rem;
+  width: 21.44rem;
+  height: 1.63rem;
+  -webkit-text-stroke: 1px #000;
+}
+.unbelievably-funny-observers {
+  top: 22.56rem;
+  left: 35.94rem;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-palanquin-dark);
+  color: #a2d8ab;
+  width: 22.69rem;
+  height: 3.81rem;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+}
+.vector-parent {
+  position: absolute;
+  top: 298.56rem;
+  left: 1.56rem;
+  width: 90rem;
+  height: 52.44rem;
+}
+.desktop-2,
+.group-parent {
+  position: absolute;
+  width: 100%;
+  height: 703.25rem;
+}
+.desktop-2 {
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.group-parent {
+  top: -1.25rem;
+  left: -1.25rem;
+}
+.home-child {
+  position: absolute;
+  top: 0;
+  left: 15.38rem;
+  border-radius: var(--br-xl);
+  width: 74.62rem;
+  height: 59.46rem;
+  z-index: -1;
+
+}
+.home {
+  position: relative;
+  background-color: var(--dark-light-white);
+  width: 100%;
+  height: 349.75rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 2.25rem;
+  color: var(--dark-light-white);
+  font-family: var(--font-orbitron);
+}

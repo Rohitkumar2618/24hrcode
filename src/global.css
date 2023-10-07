@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Outline:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Marko+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Malayalam:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Trispace:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mandali:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tomorrow:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-tomorrow: Tomorrow;
+  --font-trispace: Trispace;
+  --font-manrope: Manrope;
+  --font-mandali: Mandali;
+  --font-noto-serif-malayalam: "Noto Serif Malayalam";
+  --font-marko-one: "Marko One";
+  --font-londrina-outline: "Londrina Outline";
+  --font-palanquin-dark: "Palanquin Dark";
+  --font-orbitron: Orbitron;
+
+  /* font sizes */
+  --font-size-lg: 1.13rem;
+  --font-size-5xl: 1.5rem;
+  --font-size-77xl: 3rem;
+  --font-size-13xl: 2rem;
+  --font-size-41xl: 3.75rem;
+  --font-size-base: 1rem;
+  --font-size-xl: 1.25rem;
+  --font-size-mini-5: 0.91rem;
+  --font-size-71xl: 5.63rem;
+  --font-size-181xl: 12.5rem;
+
+  /* Colors */
+  --dark-light-white: #fff;
+  --color-gray: #111015;
+  --color-mediumspringgreen-100: #6aff94;
+  --color-mediumspringgreen-200: rgba(106, 255, 148, 0.5);
+  --color-dimgray: rgba(86, 86, 86, 0.6);
+
+  /* Gaps */
+  --gap-5xs: 0.5rem;
+  --gap-5xl: 1.5rem;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-5xl: 24px;
+  --br-6xl: 25px;
+  --br-381xl: 400px;
+}
